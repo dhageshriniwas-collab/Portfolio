@@ -33,6 +33,13 @@ export const projects = [
     description:
       "A website for exploring travel destinations.",
   },
+  {
+    title: "portfolio",
+    image: sendfrom,
+    link: "https://portfolio-six-green-q1nh0lxarz.vercel.app/",
+    description:
+      "Portfolio website to showcase my projects and skills.",
+  },
   
   
 ];
