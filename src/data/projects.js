@@ -15,7 +15,7 @@ export const projects = [
   {
     title: "Gemini-clone",
     image: semicolon,
-    link: "https://gemini-app1-eosin.vercel.app/",
+    link: "https://gemini-theta-navy.vercel.app/",
     description:
       "chatbot for an AI assistant.",
   },
